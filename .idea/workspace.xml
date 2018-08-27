@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41f18566-f447-4572-865e-b8872f2da8c1" name="Default" comment="">
+    <list default="true" id="41f18566-f447-4572-865e-b8872f2da8c1" name="Default" comment="update0659">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/Test001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/Test002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/ZkClientWatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/ZookeeperDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/maven/com.itheima/microservice-zookeeper/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/maven/com.itheima/microservice-zookeeper/pom.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-config-client/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -70,7 +58,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="test" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
   </component>
@@ -86,6 +74,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -245,18 +239,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4087000" />
+    <option name="totallyTimeSpent" value="4526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3858" height="1931" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32977018" />
+      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.32976446" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.10331906" />
+      <window_info anchor="right" id="Database" order="4" weight="0.10331906" />
       <window_info id="Structure" order="8" sideWeight="0.49754602" side_tool="true" weight="0.24986638" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.24986638" />
       <window_info id="UI Designer" order="4" />
@@ -267,11 +261,11 @@
       <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32944787" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.32940447" />
-      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32754344" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32754344" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.32944787" />
       <window_info anchor="bottom" id="Spring" order="2" weight="0.32944787" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.61939615" visible="true" weight="0.41407922" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.61939615" visible="true" weight="0.41407922" />
       <window_info anchor="right" id="Bean Validation" order="0" weight="0.32977018" />
       <window_info id="Web" order="0" sideWeight="0.37607363" side_tool="true" weight="0.2616248" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -295,6 +289,7 @@
       <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.32940447" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
       <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.32977018" />
       <window_info anchor="right" id="Database" order="4" visible="true" weight="0.10331906" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32944787" />
@@ -308,17 +303,18 @@
       <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32947975" />
+      <window_info anchor="bottom" id="Spring" order="2" weight="0.32944787" />
       <window_info anchor="right" id="Commander" order="8" weight="0.4" />
       <window_info id="Designer" order="3" />
     </layout>
     <layout-to-restore>
       <window_info active="true" anchor="bottom" id="Application Servers" order="0" visible="true" weight="0.32944787" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32944787" />
       <window_info anchor="bottom" id="Spring" order="2" weight="0.32944787" />
       <window_info id="Image Layers" order="5" />
-      <window_info anchor="bottom" id="Run" order="9" weight="0.32944787" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.24986638" />
       <window_info id="UI Designer" order="4" />
@@ -331,12 +327,12 @@
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32920024" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32944787" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32944787" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32760736" />
       <window_info id="Nl-Palette" order="1" />
       <window_info anchor="right" id="Maven Projects" order="2" weight="0.32976446" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
       <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.6883117" visible="true" weight="0.38477367" />
       <window_info anchor="right" id="Database" order="4" weight="0.10288066" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -345,7 +341,7 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Structure" order="8" sideWeight="0.3116883" side_tool="true" weight="0.5523128" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="right" id="Bean Validation" order="0" weight="0.32977018" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.538843" />
     </layout-to-restore>
@@ -659,17 +655,11 @@
     <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-zookeeper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-zookeeper/pom.xml" />
     <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
