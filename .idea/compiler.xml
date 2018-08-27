@@ -13,19 +13,10 @@
         <module name="microservice-eureka-user" />
         <module name="microservice-eureka-user-hystrix" />
         <module name="microservice-gateway-zuul" />
-        <module name="microservice-hystrix-dashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="microservice-config-client" target="1.8" />
-      <module name="microservice-config-server" target="1.8" />
-      <module name="microservice-eureka-order" target="1.8" />
-      <module name="microservice-eureka-server" target="1.8" />
-      <module name="microservice-eureka-user" target="1.8" />
-      <module name="microservice-eureka-user-hystrix" target="1.8" />
-      <module name="microservice-gateway-zuul" target="1.8" />
       <module name="microservice-hystrix-dashboard" target="1.8" />
-      <module name="microservice-springcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
