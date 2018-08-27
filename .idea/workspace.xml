@@ -2,158 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18566-f447-4572-865e-b8872f2da8c1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_53.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_6_0_201612231935_r.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_26_incubating.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_3_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_3_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_3_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_dashboard_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/target/classes/META-INF/maven/com.itheima/microservice-config-server/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/target/classes/META-INF/maven/com.itheima/microservice-config-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/microservice-eureka-order.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-server/microservice-eureka-server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/microservice-eureka-user-hystrix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/microservice-eureka-user.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/microservice-gateway-zuul.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-springcloud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/Test001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/Test002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/ZkClientWatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/src/main/java/com/fei/zookeeper/test/ZookeeperDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/maven/com.itheima/microservice-zookeeper/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-zookeeper/target/classes/META-INF/maven/com.itheima/microservice-zookeeper/pom.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-config-client/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -164,6 +26,7 @@
     <ignored path="$PROJECT_DIR$/microservice-hystrix-dashboard/target/" />
     <ignored path="$PROJECT_DIR$/microservice-gateway-zuul/target/" />
     <ignored path="$PROJECT_DIR$/microservice-eureka-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-zookeeper/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,20 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
-      <file leaf-file-name="ServerApplication.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ServerApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
               <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservice-zookeeper/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -254,74 +108,6 @@
             <path>
               <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fei" type="462c0819:PsiDirectoryNode" />
-              <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fei" type="462c0819:PsiDirectoryNode" />
-              <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -448,10 +234,18 @@
       <workItem from="1535385363713" duration="659000" />
       <workItem from="1535409323456" duration="1078000" />
     </task>
+    <task id="LOCAL-00001" summary="update0659">
+      <created>1535411253247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535411253247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3754000" />
+    <option name="totallyTimeSpent" value="4087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3858" height="1931" extended-state="6" />
@@ -482,17 +276,79 @@
       <window_info id="Web" order="0" sideWeight="0.37607363" side_tool="true" weight="0.2616248" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32944787" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.61939615" visible="true" weight="0.41407922" />
+      <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24986638" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.32754344" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info id="Structure" order="8" sideWeight="0.49754602" side_tool="true" weight="0.24986638" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32977018" />
+      <window_info id="Web" order="0" sideWeight="0.37607363" side_tool="true" weight="0.2616248" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.32940447" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.10331906" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32944787" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32944787" />
+      <window_info active="true" anchor="bottom" id="Application Servers" order="0" visible="true" weight="0.32944787" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Properties" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32947975" />
       <window_info anchor="right" id="Commander" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
-      <window_info id="Nl-Palette" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="right" id="Properties" order="3" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Application Servers" order="0" visible="true" weight="0.32944787" />
+      <window_info id="Designer" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" anchor="bottom" id="Application Servers" order="0" visible="true" weight="0.32944787" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="bottom" id="Spring" order="2" weight="0.32944787" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32944787" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24986638" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Properties" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Commander" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32920024" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32944787" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32944787" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32760736" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32976446" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.6883117" visible="true" weight="0.38477367" />
+      <window_info anchor="right" id="Database" order="4" weight="0.10288066" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info id="Web" order="0" sideWeight="0.37607363" side_tool="true" weight="0.2616248" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="8" sideWeight="0.3116883" side_tool="true" weight="0.5523128" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.32977018" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.538843" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -500,50 +356,302 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update0659" />
+    <option name="LAST_COMMIT_MESSAGE" value="update0659" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="649">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="885">
+          <caret line="25" column="13" selection-start-line="24" selection-start-column="11" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/util/ServiceInfoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-188">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-hystrix-dashboard/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/microservice-hystrix-dashboard/src/main/java/com/itheima/springcloud/Application.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/itheima/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-client/src/main/java/com/itheima/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-server/src/main/java/com/itheima/springcloud/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="25" column="13" selection-start-line="24" selection-start-column="11" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-gateway-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
@@ -557,6 +665,16 @@
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
