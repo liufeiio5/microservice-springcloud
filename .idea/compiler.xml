@@ -13,6 +13,7 @@
         <module name="microservice-eureka-user" />
         <module name="microservice-eureka-user-hystrix" />
         <module name="microservice-gateway-zuul" />
+        <module name="microservice-zookeeper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
