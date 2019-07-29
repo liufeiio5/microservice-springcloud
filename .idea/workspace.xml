@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de418c48-17ed-413b-9bc2-3f9107136600" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/itheima/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-client/src/main/java/com/qgwy/springcloud/ConfigClientApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-config-server/src/main/java/com/itheima/springboot/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-config-server/src/main/java/com/qgwy/springcloud/ConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/qgwy/springcloud/ProviderOrderApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/qgwy/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/po/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/qgwy/springcloud/po/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/itheima/springcloud/util/ServiceInfoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-order/src/main/java/com/qgwy/springcloud/util/ServiceInfoUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-server/src/main/java/com/itheima/springcloud/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-server/src/main/java/com/qgwy/springcloud/EurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user-hystrix/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/qgwy/springcloud/ConsumerUserHystrixApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/itheima/springcloud/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user-hystrix/src/main/java/com/qgwy/springcloud/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/UserServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/qgwy/springcloud/ConsumerUserApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/api/FeignApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/qgwy/springcloud/api/FeignApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/qgwy/springcloud/controller/FeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/itheima/springcloud/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-user/src/main/java/com/qgwy/springcloud/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/itheima/springcloud/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-gateway-zuul/src/main/java/com/qgwy/springcloud/ZuulApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-hystrix-dashboard/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-hystrix-dashboard/src/main/java/com/itheima/springcloud/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-hystrix-dashboard/src/main/java/com/qgwy/springcloud/HystrixDashboardApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="de418c48-17ed-413b-9bc2-3f9107136600" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/microservice-eureka-order/target/" />
     <ignored path="$PROJECT_DIR$/microservice-eureka-user/target/" />
     <ignored path="$PROJECT_DIR$/microservice-eureka-user-hystrix/target/" />
@@ -130,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/microservice-eureka-user/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="-423">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -303,111 +234,6 @@
             <path>
               <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-user-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-user-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-user-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-user-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-user-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-gateway-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice-springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-hystrix-dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -612,18 +438,18 @@
       <workItem from="1534035534728" duration="744000" />
       <workItem from="1534038331328" duration="12264000" />
       <workItem from="1534606295962" duration="591000" />
-      <workItem from="1564361062101" duration="12328000" />
+      <workItem from="1564361062101" duration="12764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25927000" />
+    <option name="totallyTimeSpent" value="26363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
-      <window_info id="Alibaba Cloud Explorer" sideWeight="0.17524116" side_tool="true" visible="true" weight="0.38465664" />
+      <window_info id="Alibaba Cloud Explorer" sideWeight="0.17636986" side_tool="true" visible="true" weight="0.38465664" />
       <window_info id="Web" order="0" sideWeight="0.37607363" side_tool="true" weight="0.2616248" />
       <window_info id="Nl-Palette" order="1" />
       <window_info id="Capture Tool" order="2" />
@@ -631,7 +457,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.38060385" side_tool="true" weight="0.2616248" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.8247588" visible="true" weight="0.38465664" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.82363015" visible="true" weight="0.38465664" />
       <window_info id="Structure" order="8" sideWeight="0.3116883" side_tool="true" weight="0.5523128" />
       <window_info anchor="bottom" id="Tail" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -643,7 +469,7 @@
       <window_info anchor="bottom" id="Spring" order="2" weight="0.32944787" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" weight="0.32760736" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3295063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.3295063" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32947975" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -653,7 +479,7 @@
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32944787" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32920024" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.2858783" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.2858783" />
       <window_info anchor="right" id="Maven" visible="true" weight="0.21620172" />
       <window_info anchor="right" id="Alibaba Log Console" />
       <window_info anchor="right" id="Bean Validation" order="0" weight="0.32939914" />
@@ -962,8 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-user/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="-423">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
