@@ -15,12 +15,12 @@
 		<module>microservice-gateway-zuul</module>
 		<module>microservice-config-server</module>
 		<module>microservice-config-client</module>
-		<module>microservice-zookeeper</module>
+		<!--<module>microservice-zookeeper</module>-->
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.6.RELEASE</version>
+		<version>1.5.9.RELEASE</version>
 		<relativePath />
 	</parent>
 	<properties>

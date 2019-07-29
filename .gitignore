@@ -1,8 +1,14 @@
 # Compiled class file
 *.class
-
+.idea
+.settings
+.project
+microservice-springcloud.iml
+*.iml
+logs
 # Log file
 *.log
+target
 
 # BlueJ files
 *.ctxt

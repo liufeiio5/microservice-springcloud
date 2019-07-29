@@ -3,18 +3,16 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.cloud.netflix.feign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableEurekaClient
-@RestController
-public class Application {
-    @RequestMapping("/hello")
-    public String home() {
-        return "hello world!";
-    }
+@EnableFeignClients
+public class UserServiceApplication {
+
     /**
      * 实例化RestTemplate
      * RestTemplate是Spring提供的用于访问Rest服务的客户端，
@@ -26,7 +24,7 @@ public class Application {
 		return new RestTemplate();
 	}
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(UserServiceApplication.class, args);
     }
     
 }
